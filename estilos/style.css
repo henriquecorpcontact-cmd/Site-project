@@ -32,6 +32,12 @@ h1, h2, p {
     margin-top: 0;
 }
 
+img.lado { 
+    float: right;
+}
+
+
+
 h1 {
     margin-bottom: 10px;
     font-size: clamp(2rem, 5vw, 2.8rem);
